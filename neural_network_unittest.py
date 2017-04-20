@@ -25,6 +25,13 @@ from weights import *
 from numpy import *
 import scipy.io as sio
 
+# ====================================================== SET UP =========================================================
+
+matlab_training_set = sio.loadmat('/home/singularity/Desktop/M.L-programs/machine-learning-ex4/ex4/ex4data1.mat')
+
+# change the file name in the pair of brackets to the file location of the ex4data1.mat data set and you're good to go.
+# =====================================================================================================================
+
 
 def test_ai_nn_model(nn_instance):
     print("==================== ai model ===============================")
@@ -292,8 +299,6 @@ def test_gradient_checking(nn_instance, weights_list):
 def test_optimal_weights(nn_instance, maximum_iter):
     return nn_instance.optimal_weights(maximum_iter)
 
-
-matlab_training_set = sio.loadmat('/home/singularity/Desktop/M.L-programs/machine-learning-ex4/ex4/ex4data1.mat')
 
 y_label = matrix(matlab_training_set["y"]).T
 x_features = matrix(matlab_training_set["X"]).T
