@@ -1,6 +1,7 @@
 # Neuro Lab
+![Artificial Neural Network](https://cdn-images-1.medium.com/max/1600/1*590A1_2nItX49wqZKOlaFw.png)
+Format: ![Alt Text](url)
 
-https://cdn-images-1.medium.com/max/1600/1*590A1_2nItX49wqZKOlaFw.png!
 
 #                                         A General Artificial Neural Network Model
 
