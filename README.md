@@ -1,4 +1,4 @@
-# neuro-lab
+# Neuro Lab
 
 #                                         A General Artificial Neural Network Model
 
