@@ -1,9 +1,7 @@
-# Neuro Lab
+# Neuro Lab - General Artificial Neural Network Model
 ![Artificial Neural Network](https://cdn-images-1.medium.com/max/1600/1*590A1_2nItX49wqZKOlaFw.png)
 Format: ![Alt Text](url)
 
-
-#                                         A General Artificial Neural Network Model
 
 A general neural network model with variable configuration to experiment on for image recognition, speech recognition, sentiment analysis  e.t.c
 
