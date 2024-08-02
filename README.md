@@ -1,5 +1,5 @@
 # Neuro Lab - A General Artificial Neural Network Model (GANN)
-![Artificial Neural Network](https://cdn-images-1.medium.com/max/1600/1*590A1_2nItX49wqZKOlaFw.png)
+![Artificial Neural Network](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ZdN275sTHpsefthC)
 
 
 
